@@ -2,7 +2,9 @@ AI-Powered Call Support Chatbot Development
 
 Hello,
 
-I am excited to submit my proposal for your project seeking an AI Chatbot Developer for Call Support. I have hands-on experience in building advanced AI chatbots that handle real-time voice interactions, leveraging the latest in Natural Language Processing (NLP) and Artificial Intelligence (AI).
+I am excited to submit my proposal for your project seeking an AI Chatbot voice chatbot Developer for Call Support using Python. I have hands-on experience in building advanced AI chatbots that handle real-time voice interactions, leveraging the latest in Natural Language Processing (NLP) and Artificial Intelligence (AI).
+Designed and implemented a professional-grade AI voice chatbot for call support using Python. The solution integrates advanced NLP models (OpenAI/Gemini) for real-time understanding and response to customer inquiries. Key features include robust speech recognition, natural text-to-speech output, and modular agents for both customer service and technical support, ensuring a seamless and efficient user experience.
+
 
 Project Overview
 
