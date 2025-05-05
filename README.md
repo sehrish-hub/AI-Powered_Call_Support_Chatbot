@@ -1,26 +1,21 @@
-Title:
+ 🚀 Just Built: AI-Powered Voice Chatbot for Call Support (Python, OpenAI/Gemini, Agents SDK)
+I'm excited to share my latest project – a professional-grade AI voice chatbot that automates technical support and customer service calls using advanced Natural Language Processing.
 
-AI-Powered Voice Chatbot for Call Support (Python, OpenAI/Gemini, Agents SDK)
+💡 Key Highlights:
+🔹 Voice Interaction: Real-time voice conversations using speech recognition and text-to-speech.
 
-Description:
+🔹 Multi-Agent System: Specialized AI agents handle support queries, managed via an intelligent main orchestrator agent for context-aware, dynamic conversations.
 
-I have developed a professional AI-powered voice chatbot designed for call support and customer service automation. This solution leverages advanced Natural Language Processing (NLP) using OpenAI/Gemini APIs and an agent-based SDK to deliver seamless, real-time voice interactions.
+🔹 Context Retention: Tracks conversation history for smooth, human-like dialogue flow.
 
-Key Features:
+🔹 Built with Python: Fully modular and scalable using OpenAI/Gemini APIs and agent SDK.
 
-1- Voice Interaction: 
-Users can speak directly to the chatbot, which understands and responds using speech recognition and text-to-speech technologies.
+🔹 Fully Customizable: Easy to expand with new agents, knowledge bases, or 3rd-party API integrations.
 
-2- Multi-Agent Architecture: 
-Specialized agents handle customer service and technical support queries, coordinated by a main chatbot agent for efficient and context-aware responses.
+🔧 Tech Stack: Python, OpenAI / Gemini, Agents SDK, SpeechRecognition, pyttsx3 / gTTS
 
-3- Contextual Conversation:
-Maintains conversation history for natural, ongoing dialogue.
+💬 This project helped me deepen my expertise in LLM orchestration, voice AI, and multi-agent collaboration.
 
-4- Python Implementation:
-Built with Python for flexibility, scalability, and easy integration.
+📢 If you're building smart assistants or want to automate support workflows — I’d love to connect and collaborate!
 
-5- Customizable:
-Easily extendable to include more agents, knowledge bases, or integrate with other APIs.
-
-This project demonstrates expertise in AI, NLP, Python, and modular chatbot development, and is ideal for businesses seeking to automate and enhance their customer support experience.
+#AI #VoiceAI #Python #LLM #OpenAI #Gemini #CustomerSupport #AgentsSDK #Chatbot #MultiAgent #Freelancer #LLMops #AIprojects
